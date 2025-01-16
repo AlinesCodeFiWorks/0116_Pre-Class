@@ -1,0 +1,16 @@
+body {
+    background-color: yellow;
+}
+
+.activity {
+    margin:auto;
+    text-align: center;
+}
+
+.button {
+    background-color: blue;
+    padding: 15px;
+    color: white;
+    font-size: large;
+    border-radius: 30%;
+}
